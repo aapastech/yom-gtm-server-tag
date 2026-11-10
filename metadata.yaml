@@ -1,5 +1,7 @@
 homepage: 'https://yom.aapastech.com/'
 documentation: 'https://github.com/aapastech/yom-gtm-server-tag#readme'
 versions:
+  - sha: db6536be3f9622800d4ef3042d6bd4e5ef2e8f91
+    changeNotes: 'Adds the YOM icon to the template.'
   - sha: 67ca12eb2f6eceda0870a29792d28096d1377cb5
     changeNotes: 'Initial release.'
